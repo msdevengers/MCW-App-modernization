@@ -467,7 +467,7 @@
                 "hostingMode": "Default"
             },
             "sku": {
-                "name": "standard3"
+                "name": "standard"
             }
         },
         {
